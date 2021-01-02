@@ -1,2 +1,6 @@
 This is just a text file.
 On second thought, it's an experiment.
+/*
+Multi-Line Polish
+This should be sufficient.
+*/
